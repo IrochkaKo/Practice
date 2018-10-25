@@ -1,0 +1,31 @@
+table{
+    width: 100%;
+    border: none;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+tr{
+color:white;
+background-color:#05458C;
+border: none;
+}
+td{
+    border: none;
+}
+.first{
+    width: 500px;
+}
+div{
+    height: 50%;
+    color:white;
+    padding: 20px;
+    text-align: center;
+}
+.white{
+    background-color: white;
+}
+.blue{
+    background-color:#05458C;
+}
