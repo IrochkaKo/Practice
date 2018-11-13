@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f4e5de;
+    font-family: 'Cormorant SC', serif;
+    color: #685042;
+    text-align: center;
+}
+.global_wrapper{
+    width: 100%;
+    max-height: 1080px;
+}
+.container {
+   /* width: 1215px;*/
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    border: 1px solid royalblue;
+}
+.header__logo{
+    padding-top: 29px;
+    display: flex;
+    justify-content: center;
+   }
+   li{
+       display: inline;
+       margin:10px;
+   }
+   img{
+       width: 100%;
+   }
