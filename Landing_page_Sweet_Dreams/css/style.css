@@ -30,3 +30,20 @@ body{
    img{
        width: 100%;
    }
+   hr{
+       color: #461a05;
+      
+   }
+a{
+    font-family: 'Cormorant SC', serif;
+    color: #685042;
+    font-size: 14pt;
+}
+   a:hover{
+       color:#2c1104;
+      /* opacity: 0.8;*/
+       text-decoration: underline;
+   }
+   .slider{
+       padding: -15px;
+   }
